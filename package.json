@@ -4,11 +4,11 @@
   "description": "",
   "main": "script.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start" : "node --watch http-server/index.js"
   },
   "author": "Ravi",
   "license": "ISC",
   "dependencies": {
-    "@types/node": "^24.3.1"
+    "@types/node": "^24.5.0"
   }
 }
