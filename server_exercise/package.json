@@ -1,0 +1,11 @@
+{
+  "name": "server_exercise",
+  "version": "1.0.0",
+  "description": "server exercise",
+  "main": "index.js",
+  "scripts": {
+        "start" : "node --watch index.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
